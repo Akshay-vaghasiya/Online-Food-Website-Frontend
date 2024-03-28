@@ -1,0 +1,252 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* height:100%; */
+   
+}
+
+.container{
+    background-color: black;
+    height: 80px;
+    position: fixed;
+    z-index: 1;
+    width:100%;
+}
+.container a{
+    text-decoration: none;
+    margin:35px;
+    color:white;
+    font-size: larger; 
+}
+.link{
+    display:inline-block;
+    margin:29px;
+    height:24px;
+    position: absolute;
+    right: 7px;
+}
+.gcc pre{
+   
+    font-size: 4.2rem;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 145px;
+    color: rgb(8, 8, 8);
+    font-family: cursive;
+    font-weight: bolder;
+    border-radius: 100%;
+    /* text-decoration: underline; */
+} 
+
+#main::before{
+    background: url("picture/p1.jpg") no-repeat center center/cover;
+    opacity: 0.6;
+    content: "";
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 673px;
+    width: 100%;
+    z-index: -1;
+    margin-top: 80px;
+
+}
+
+#main p{
+    text-align: center;
+    font-size: 2.0rem;
+    margin-top: 44px;
+
+}
+
+#main .thali{
+    height: 229px;
+    margin: 62px;
+    width: 340px;
+    position: relative;
+    top: -15px;
+    
+}
+
+#main .punjabi{
+    position: relative;
+    top: -75px;
+    right: -132px;
+    height: 229px;
+    width: 340px;
+}
+
+#main .south{
+    height: 229px;
+    width: 340px;
+    position: relative;
+    top: -75px;
+    right: -310px;
+
+}
+
+#main .pizza{
+    height: 229px;
+    width: 340px;
+    position: relative;
+    top: 247px;
+    right: 33px;
+}
+
+#main .berger{
+    height: 229px;
+    width: 340px;
+    position: relative;
+    bottom: -12px;
+    left: 62px;
+}
+
+#main .sand{
+    height: 229px;
+    width: 340px;
+    position: relative;
+    bottom: -14px;
+    right: -255px;
+}
+
+#main .let{
+    margin-top: -300px;
+    margin-left: -1057px;
+    font-size: 32px;
+    left: px;
+    font-weight: bold;
+}
+
+#main .let1{
+    font-size: 32px;
+    font-weight: bold;
+    margin-top: -38px;
+    margin-left: 27px;
+}
+
+
+#main .let2{
+    text-align: center;
+    font-size: 2.0rem;
+    margin-top: 44px;
+    display: block;
+    font-weight: bold;
+    margin-left: 1072px;
+    margin-top: -39px;
+}
+
+#main .let3{
+    font-size: 32px;
+    font-weight: bold;
+    margin-top: 281px;
+    margin-right: 1059px;
+}
+
+#main .let4{
+    font-size: 32px;
+    font-weight: bold;
+    margin-top: -38px;
+    margin-left: 1078px;
+}
+
+#main .let5{
+    font-size: 32px;
+    font-weight: bold;
+    margin-top: -31px;
+    left: 640px;
+    top: 720px;
+    position: absolute;
+    display: inline-block;
+    margin-right: -15px;
+}
+
+#int::before{
+    background: url("picture/p8.jpg") no-repeat center center/cover;
+    opacity: 0.6;
+    content: "";
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 673px;
+    width: 100%;
+    z-index: -1;
+    margin-top: 80px;
+}
+
+#int .p1{
+    font-size: 40px;
+    margin-top: 110px;
+    margin-left: 97px;
+}
+
+#int .p2{
+    font-size: 50px;
+    font-family: inherit;
+    margin-left: 502px;
+    margin-top: 40px;
+}
+
+#abc::before{
+    background: url("picture/p9.jpg") no-repeat center center/cover;
+    opacity: 0.6;
+    content: "";
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 673px;
+    width: 100%;
+    z-index: -1;
+    margin-top: 80px;
+}
+.it1
+{
+    background-color: #9f7942;
+    height: 673px;
+    color: rgb(4, 6, 8);
+    margin-top: -2px;
+    margin-left: 188px;
+    border-radius: 10% 10% 10% 10%;
+    width: 610px;
+    font-size: 33px;
+    justify-self: unset;
+}
+
+#hi::before{
+    background: url("picture/p10.jpg") no-repeat center center/cover;
+    opacity: 0.5;
+    content: "";
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 673px;
+    width: 100%;
+    z-index: -1;
+    margin-top: 80px;
+}
+
+.ak{
+    font-size: 29px;
+    margin-top: 21px;
+    margin-left: 24px;
+    font-family: fangsong;
+}
+
+.feedback{
+    position: absolute;
+    left: 306px;
+    top: 599px;
+    height: 51px;
+    width: 387px;
+}
+
+.kk{
+    font-size: 50px;
+    margin-top: 101px;
+    margin-left: 144px;
+}
+
+.ss{
+    font-size: 30px;
+    margin-left: 142px;
+}
